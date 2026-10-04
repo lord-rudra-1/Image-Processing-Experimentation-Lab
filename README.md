@@ -1,4 +1,4 @@
-# DIP Studio
+# DIP Studio - Image Processing
 
 Live Demo: [https://image-processsing-experimentataion.vercel.app/](https://image-processsing-experimentataion.vercel.app/)
 
